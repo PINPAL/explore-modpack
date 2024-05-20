@@ -1,0 +1,13 @@
+filename = 'macawsbridgesbop-1.19.2-1.4.jar'
+name = "Macaw's Bridges - Biomes O' Plenty"
+side = 'both'
+
+[download]
+hash = '09343cef5689102bed3803797bc1382451a2b111'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5251995
+project-id = 533382

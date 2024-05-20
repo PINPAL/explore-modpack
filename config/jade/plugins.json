@@ -1,13 +1,4 @@
 {
-  "modularrouters": {
-    "router": true
-  },
-  "utilitix": {
-    "experience_crystal": true,
-    "linked_repeater": true,
-    "crude_furnace": true,
-    "advanced_brewery": true
-  },
   "minecraft": {
     "block_inventory.detailed_amount": 54,
     "furnace": true,
@@ -55,16 +46,10 @@
     "mob_spawner": true,
     "redstone": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
-  },
-  "twilightforest": {
-    "quest_ram_wool": true
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -79,19 +64,50 @@
     "ench": true,
     "spawner": true
   },
-  "waystones": {
-    "waystone": true
-  },
   "lootr": {
     "info": true
-  },
-  "corpse": {
-    "corpse": true
   },
   "productivebees": {
     "solitary_nest": true,
     "jar": true,
     "bee_attributes": true,
     "productive_bee": true
+  },
+  "modularrouters": {
+    "router": true
+  },
+  "utilitix": {
+    "experience_crystal": true,
+    "linked_repeater": true,
+    "crude_furnace": true,
+    "advanced_brewery": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "crafting_blueprint": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }

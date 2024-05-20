@@ -1,0 +1,13 @@
+filename = 'valhelsia_furniture-forge-1.19.2-1.1.1.jar'
+name = 'Valhelsia Furniture'
+side = 'both'
+
+[download]
+hash = 'b9830e1a5a0d09c364ecc3ddf1dd86c1e0bd0ba3782bc8e1210850efbb92d9914bff416af0cda417f8d62b36264bc18c3ef836138618e8f6993760fef96fce30'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qmCh2PxS/versions/NxrAgJA5/valhelsia_furniture-forge-1.19.2-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'qmCh2PxS'
+version = 'NxrAgJA5'

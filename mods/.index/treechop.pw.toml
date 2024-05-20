@@ -1,0 +1,13 @@
+filename = 'TreeChop-1.19.2-forge-0.18.6.jar'
+name = "HT's TreeChop"
+side = 'both'
+
+[download]
+hash = 'ed5cd55f0eac5df48c83bf820d19d350198e53f0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4965460
+project-id = 421377

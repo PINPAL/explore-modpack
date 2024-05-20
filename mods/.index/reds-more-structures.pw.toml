@@ -1,0 +1,13 @@
+filename = 'reds-more-structures-1.0.7-common.jar'
+name = 'Red’s More Structures [Fabric & Forge]'
+side = 'both'
+
+[download]
+hash = 'fa74d982b3560a2be2d0e3417a3d9acf9c5ab4bd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4486535
+project-id = 656079

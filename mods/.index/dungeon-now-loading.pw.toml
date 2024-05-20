@@ -1,0 +1,13 @@
+filename = 'dungeonnowloading-18.2-1.19.2.jar'
+name = 'Dungeon Now Loading 1%'
+side = 'both'
+
+[download]
+hash = 'e400c1c9c9c68f26ad71dacf0d9f9744254d4c04'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4485575
+project-id = 638535

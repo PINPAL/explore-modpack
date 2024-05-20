@@ -1,0 +1,13 @@
+filename = 'hamsters-forge-1.0.3-1.19.2.jar'
+name = 'Hamsters'
+side = 'both'
+
+[download]
+hash = '4eb06b646b2c77a8da224fbf7b4eadc6f60aafa31e2bf382974972a0a45cfa6fd2f571e086eb2086693c232e234d6e9beaf9b475f48fadede08d09e58b9cb146'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sRzS8pFG/versions/cxJfbV4y/hamsters-forge-1.0.3-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'sRzS8pFG'
+version = 'cxJfbV4y'
