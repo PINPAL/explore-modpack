@@ -1,0 +1,13 @@
+filename = 'hats-and-cosmetics-1.4-1.19.2.jar'
+name = 'Hats & Cosmetics'
+side = 'both'
+
+[download]
+hash = '63a6edc4328ebaad27cb53d575067d0a3274ffda'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4019148
+project-id = 594678

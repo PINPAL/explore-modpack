@@ -1,0 +1,13 @@
+filename = 'DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar'
+name = 'When Dungeons Arise - Seven Seas'
+side = 'both'
+
+[download]
+hash = 'b585510746697689562f2661313e5f66718e5861'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4981372
+project-id = 953637

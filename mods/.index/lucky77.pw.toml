@@ -1,0 +1,13 @@
+filename = 'Lucky77_1.19.2_v04.jar'
+name = 'Lucky77'
+side = 'both'
+
+[download]
+hash = '4b7522c5e78cc13b36acd6ce004ff84f1a64bb3c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5140500
+project-id = 476196

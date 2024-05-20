@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "apotheosis:weapon_tome",
+    "twilightforest:block_and_chain",
+    "farmersdelight:skillet",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:gauntlet_of_bulwark",
+    "cataclysm:the_incinerator",
+    "cataclysm:meat_shredder",
+    "cataclysm:void_forge",
+    "cataclysm:tidal_claws",
+    "cataclysm:infernal_forge"
+  ],
+  "incompatible": [
+    "apotheosis:shield_bash",
+    "minecraft:smite",
+    "minecraft:bane_of_arthropods",
+    "minecraft:impaling",
+    "apotheosis:bane_of_illagers"
+  ]
+}

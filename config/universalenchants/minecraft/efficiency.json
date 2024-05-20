@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "minecraft:shears",
+    "ae2:annihilation_plane",
+    "apotheosis:pickaxe_tome",
+    "twilightforest:block_and_chain",
+    "utilitix:diamond_shears",
+    "ecologics:crab_claw",
+    "quark:pickarang",
+    "quark:flamerang",
+    "quark:echorang"
+  ],
+  "incompatible": [
+    "apotheosis:miners_fervor",
+    "minecraft:piercing"
+  ]
+}

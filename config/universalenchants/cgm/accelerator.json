@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:cgm_gun",
+    "apotheosis:other_tome"
+  ],
+  "incompatible": [
+    "cgm:puncturing",
+    "cgm:collateral",
+    "cgm:fire_starter"
+  ]
+}

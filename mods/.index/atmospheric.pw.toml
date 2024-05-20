@@ -1,0 +1,13 @@
+filename = 'atmospheric-1.19.2-5.1.2.jar'
+name = 'Atmospheric'
+side = 'both'
+
+[download]
+hash = '1b42fa2229543a47bcff2a3ce762e142f77094be1a551597b48ada1c58d2c4e37c249ccb2b9bbf6188c20cab6598522b6c017308ab2e4696d89c7144680473af'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U9sJOFmJ/versions/txvefAuz/atmospheric-1.19.2-5.1.2.jar'
+
+[update.modrinth]
+mod-id = 'U9sJOFmJ'
+version = 'txvefAuz'

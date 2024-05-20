@@ -1,0 +1,13 @@
+filename = 'adtetra-1.0.1.jar'
+name = 'Ad Tetra!'
+side = 'both'
+
+[download]
+hash = '9b36cb113290324c701abc626a94582970792a18cdb38befcaae0e47e7ad93caa5ee70eb9f7c7ad758c3e06e47610ca4ba1f41e450ec95e9f2416d91f5d780df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YecCeirP/versions/FPDCSjfk/adtetra-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'YecCeirP'
+version = 'FPDCSjfk'

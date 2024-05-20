@@ -1,0 +1,37 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!.gitattributes
+
+###############################
+# Un-ignore the affected subdirectory
+!/.vscode/
+!/mods/
+!/kubejs/
+!resources
+!config
+!defaultconfigs
+# Ignore subdirectory and all including directories and files to match pattern as valid for the next pattern
+/kubejs/*
+# This pattern only works with the two previous patterns
+!/kubejs/assets
+!/kubejs/client_scripts/
+!/kubejs/server_scripts/
+!/kubejs/startup_scripts/
+!/kubejs/assets/
+!kubejs/data/
+###############################
+
+# ignore user files
+config/worldedit
+config/jei/world
+config/jei/ingredient-list-mod-sort-order.ini
+config/jei/ingredient-list-type-sort-order.ini
+config/cucumber*
+config/bocchud/*
+config/xaerominimap_entities.json
+
+# ignore config bak files
+config/*.bak
