@@ -1,0 +1,13 @@
+filename = 'NoFog-1.3.2_1.19.2-forge.jar'
+name = 'NoFog'
+side = 'both'
+
+[download]
+hash = '777043172420173de9b467defe49455aaa39bfa4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4262406
+project-id = 296468

@@ -1,11 +1,5 @@
 {
-  "schemaVersion": 2,
-  "items": [
-    "$minecraft:cgm_gun",
-    "apotheosis:other_tome"
-  ],
-  "incompatible": [
-    "cgm:trigger_finger",
-    "cgm:over_capacity"
-  ]
+	"schemaVersion": 2,
+	"items": ["$minecraft:cgm_gun", "apotheosis:other_tome"],
+	"incompatible": []
 }

@@ -1,11 +1,5 @@
 {
-  "schemaVersion": 2,
-  "items": [
-    "$minecraft:cgm_semi_auto_gun",
-    "apotheosis:other_tome"
-  ],
-  "incompatible": [
-    "cgm:lightweight",
-    "cgm:over_capacity"
-  ]
+	"schemaVersion": 2,
+	"items": ["$minecraft:cgm_semi_auto_gun", "apotheosis:other_tome"],
+	"incompatible": []
 }

@@ -1,0 +1,13 @@
+filename = 'cabletiers-1.19.2-0.6.jar'
+name = 'Cable Tiers'
+side = 'both'
+
+[download]
+hash = '7c654b82cf95567825de5e72aefd9bf416a1afe2f81723be13f75fda0f323d4554fe68bfe6ba8238a7fabb4fa44b70c759b89dd6b019176b1f36ad2eb374226a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UsLNxQgK/versions/O2LfoYmp/cabletiers-1.19.2-0.6.jar'
+
+[update.modrinth]
+mod-id = 'UsLNxQgK'
+version = 'O2LfoYmp'

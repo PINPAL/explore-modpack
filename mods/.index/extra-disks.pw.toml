@@ -1,0 +1,13 @@
+filename = 'ExtraDisks-1.19.2-2.2.2.jar'
+name = 'Extra Disks'
+side = 'both'
+
+[download]
+hash = 'e5001c52588eeef2f796d562639c840ecd83bb27363afca54aab5788c5a753093dd161288a057cf8264b5756c9d2201be92e72b705fc428ffe0ae22ae4939425'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Tlo2tahX/versions/x6uuccRJ/ExtraDisks-1.19.2-2.2.2.jar'
+
+[update.modrinth]
+mod-id = 'Tlo2tahX'
+version = 'x6uuccRJ'

@@ -1,0 +1,13 @@
+filename = 'productivebees-1.19.2-0.10.7.2.jar'
+name = 'Productive Bees'
+side = 'both'
+
+[download]
+hash = '84956fd096980b4f5e37433dd4be75f77e0c97f5e15d59dafb95e60cba0faba5caabd65da4ff2ef4ca0592e3efbcc65203a0260f5e932f69d9e1147fd3b9883c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jH6iiqkd/versions/rh3ZCQky/productivebees-1.19.2-0.10.7.2.jar'
+
+[update.modrinth]
+mod-id = 'jH6iiqkd'
+version = 'rh3ZCQky'

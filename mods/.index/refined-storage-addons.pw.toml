@@ -1,0 +1,13 @@
+filename = 'refinedstorageaddons-0.9.0.jar'
+name = 'Refined Storage Addons'
+side = 'both'
+
+[download]
+hash = 'b38edc640f50e447d38499a1caf7f3c155090ff7af05308f055d3170c7db121350edabb8a86583b65aa126238952c5cffd9892440d6dab3fe948148d4f8dd6c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z4Z5ccuT/versions/RTxTh7jD/refinedstorageaddons-0.9.0.jar'
+
+[update.modrinth]
+mod-id = 'Z4Z5ccuT'
+version = 'RTxTh7jD'

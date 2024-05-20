@@ -1,10 +1,5 @@
 {
-  "schemaVersion": 2,
-  "items": [
-    "$minecraft:cgm_gun",
-    "apotheosis:other_tome"
-  ],
-  "incompatible": [
-    "cgm:quick_hands"
-  ]
+	"schemaVersion": 2,
+	"items": ["$minecraft:cgm_gun", "apotheosis:other_tome"],
+	"incompatible": []
 }

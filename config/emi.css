@@ -83,7 +83,7 @@
 	 * Whether to have the search bar in the center of the screen, instead of to the
 	 * side.
 	 */
-	center-search-bar: true;
+	center-search-bar: false;
 
 	/**
 	 * Which sidebar type to switch to when searching.
@@ -125,7 +125,7 @@
 	/**
 	 * Whether recipes should have a button to show the recipe tree.
 	 */
-	recipe-tree-button: true;
+	recipe-tree-button: false;
 
 	/**
 	 * Whether recipes should have a button to fill the ingredients in a handler.
@@ -151,12 +151,12 @@
 	/**
 	 * The subpanels in the left sidebar
 	 */
-	left-sidebar-subpanels: none;
+	left-sidebar-subpanels: craftables 6;
 
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 12, 100;
+	left-sidebar-size: 9, 100;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
@@ -176,22 +176,22 @@
 	/**
 	 * Which theme to use for the left sidebar
 	 */
-	left-sidebar-theme: transparent;
+	left-sidebar-theme: modern;
 
 	/**
 	 * The pages in the right sidebar
 	 */
-	right-sidebar-pages: index, craftables;
+	right-sidebar-pages: index;
 
 	/**
 	 * The subpanels in the right sidebar
 	 */
-	right-sidebar-subpanels: none;
+	right-sidebar-subpanels: lookup-history 1;
 
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 100;
+	right-sidebar-size: 9, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -211,7 +211,7 @@
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: transparent;
+	right-sidebar-theme: modern;
 
 	/**
 	 * The pages in the top sidebar
@@ -294,7 +294,7 @@
 	/**
 	 * Focuse the search bar.
 	 */
-	focus-search: "ctrl key.keyboard.f";
+	focus-search: "key.keyboard.tab";
 
 	/**
 	 * Clears the search bar.
@@ -304,7 +304,7 @@
 	/**
 	 * Display the recipes for creating a stack.
 	 */
-	view-recipes: "key.keyboard.r";
+	view-recipes: "shift key.keyboard.r";
 	view-recipes: "key.mouse.left";
 
 	/**
@@ -317,7 +317,7 @@
 	 * Favorite the item to display on the side of the screen opposite of recipies for
 	 * quick access.
 	 */
-	favorite: "key.keyboard.a";
+	favorite: "key.mouse.middle";
 
 	/**
 	 * Set the default recipe for a given stack in the output of a recipe to that
@@ -384,17 +384,17 @@
 	/**
 	 * Cheat in one of an item into the inventory.
 	 */
-	cheat-one-to-inventory: "alt key.mouse.right";
+	cheat-one-to-inventory: "alt key.mouse.left";
 
 	/**
 	 * Cheat in a stack of an item into the inventory.
 	 */
-	cheat-stack-to-inventory: "ctrl key.mouse.left";
+	cheat-stack-to-inventory: "alt shift key.mouse.left";
 
 	/**
 	 * Cheat in one of an item into the cursor.
 	 */
-	cheat-one-to-cursor: "ctrl key.mouse.middle";
+	cheat-one-to-cursor: "key.keyboard.unknown";
 
 	/**
 	 * Cheat in a stack of an item into the cursor.
@@ -404,7 +404,7 @@
 	/**
 	 * Delete the stack in the cursor when hovering the index
 	 */
-	delete-cursor-stack: "key.mouse.left";
+	delete-cursor-stack: "alt key.mouse.left";
 
 	/**
 	 * Copies the hovered recipe's ID to the clipboard
